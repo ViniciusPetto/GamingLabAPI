@@ -6,4 +6,4 @@ Criada API para cadastro, exclusão, modificação e consultas de jogos e client
 
 
 
-Autoria de Vinícius Pommer e Yasmin Favil (https://github.com/yasminfavil).
+Autoria de Vinícius Pommer Petto e Yasmin Favil (https://github.com/yasminfavil).
